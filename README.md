@@ -1,0 +1,1 @@
+Python ile veritabınına bağlanma.
